@@ -65,4 +65,4 @@ if st.button("Reset Conversation"):
     reset_conversation()
     st.rerun() 
     
-st.button("end")
+st.button("ended")
